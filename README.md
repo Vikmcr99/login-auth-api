@@ -1,0 +1,1 @@
+Este projeto implementa um sistema de autenticação baseado em tokens JWT (JSON Web Token), permitindo login seguro de usuários em uma API REST. O fluxo inclui geração de token no login, verificação de token em rotas protegidas e expiração controlada. Ideal como base para sistemas que exigem autenticação stateless.
